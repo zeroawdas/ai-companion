@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+faiss-cpu
+fastembed
+rank-bm25
+requests
+streamlit
+python-dotenv
+openai
